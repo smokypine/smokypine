@@ -1,30 +1,27 @@
 ### Hi there 👋
 
 ## 🌱 학력
-[2016.03 ~ 2022.02] 가천대학교 컴퓨터공학과 학사 졸업 <br/>
-[2022.03 ~ 2024.02] 한양대학교 인공지능융합학과 석사 졸업예정
+[2012.03 ~ 2019.08] 가천대학교 경영학트랙 학사 졸업 <br/>
+[2022.03 ~ 2024.12] 동양미래대학 컴퓨터소프트웨어공학과 전문학사 졸업예정
 
 ## 💻 Stack
 
 ```
-Deep/Machine Learning
-Active Learning
-Computer Vision
-Pytorch
+JSP
 Python
-OpenCV
 C/C++
 Java
 Kotlin
+Arduino
 Git
-Slack
 ```
-Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 및 협업 경험 있음.
-<!--
+<!-- Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 및 협업 경험 있음. 
+
 ## 📈 논문
 [2023] Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach, 학위논문(현재 저널 심사중) <br/>
 [2022] [의류 수요 정보 예측을 위한 멀티모달 기반 딥 뉴럴 네트워크](https://github.com/DongJooKim1541/A-multi-modal-deep-neural-network-for-predicting-clothing-demand), 2022 대한전자공학회 추계학술대회 <br/>
 -->
+
 ## 🤔 개인/팀 프로젝트 
 [2022] [해양 포유류 re-identification 인공지능](https://github.com/DongJooKim1541/happy_whale_and_dolphin_reid) <br/>
 [2021] [악성코드 탐지 및 분류 인공지능](https://github.com/leejiyoon7/Malware-detection-and-classification) <br/>
@@ -37,9 +34,8 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2023] TOEIC 765
 
 ## 📚 자격증
-[2016] 자동차운전면허 2종보통 - 서울지방경찰청 <br/>
-[2017] 정보처리기능사 - 한국산업인력공단 <br/>
-[2021] 정보처리기사 - 한국산업인력공단
+[2012] 자동차운전면허 2종보통 - 서울지방경찰청 <br/>
+
 
 <!--
 **smokypine/smokypine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
