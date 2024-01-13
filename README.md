@@ -20,11 +20,11 @@ Git
 Slack
 ```
 Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 및 협업 경험 있음.
-
+<!--
 ## 📈 논문
 [2023] Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach, 학위논문(현재 저널 심사중) <br/>
 [2022] [의류 수요 정보 예측을 위한 멀티모달 기반 딥 뉴럴 네트워크](https://github.com/DongJooKim1541/A-multi-modal-deep-neural-network-for-predicting-clothing-demand), 2022 대한전자공학회 추계학술대회 <br/>
-
+-->
 ## 🤔 개인/팀 프로젝트 
 [2022] [해양 포유류 re-identification 인공지능](https://github.com/DongJooKim1541/happy_whale_and_dolphin_reid) <br/>
 [2021] [악성코드 탐지 및 분류 인공지능](https://github.com/leejiyoon7/Malware-detection-and-classification) <br/>
@@ -42,7 +42,7 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2021] 정보처리기사 - 한국산업인력공단
 
 <!--
-**DongJooKim1541/DongJooKim1541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**smokypine/smokypine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
