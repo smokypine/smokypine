@@ -26,7 +26,7 @@ Git
 -->
 
 ## 🤔 개인/팀 프로젝트 
-[2022] [여행 사이트 프로젝트](https://github.com/smokypine/smokypine.github.io)) <br/>
+[2022] [여행 사이트 프로젝트](https://github.com/smokypine/smokypine.github.io) <br/>
 
 ## 💬 외국어 역량
 [2023] TOEIC 765
