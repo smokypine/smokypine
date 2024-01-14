@@ -26,12 +26,7 @@ Git
 -->
 
 ## 🤔 개인/팀 프로젝트 
-[2022] [해양 포유류 re-identification 인공지능](https://github.com/DongJooKim1541/happy_whale_and_dolphin_reid) <br/>
-[2021] [악성코드 탐지 및 분류 인공지능](https://github.com/leejiyoon7/Malware-detection-and-classification) <br/>
-[2020] [블록체인을 이용한 전공도서 거래 어플리케이션](https://github.com/leejiyoon7/GBB_Cotton) <br/>
-[2020] [스마트폰 잠금화면 기능을 이용한 퀴즈 리워드 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_Graduation_project) <br/>
-[2020] [공공API 기반 지하철역 정보 실시간 제공 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_realtimeSubway) <br/>
-[2017] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
+[2022] [여행 사이트 프로젝트](https://github.com/smokypine/smokypine.github.io)) <br/>
 
 ## 💬 외국어 역량
 [2023] TOEIC 765
